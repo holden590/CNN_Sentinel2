@@ -1,2 +1,2 @@
-# CNN_SkyDip_BAckup
+# CNN_SkyDip_Backup
 Backup of skydipper edited code for thesis
