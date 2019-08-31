@@ -1,5 +1,10 @@
 # CNN_SkyDip_Backup
-Backup of skydipper edited code for thesis
+Backup of GIM code for thesis
+
+Main reference gits can be found in stars and cloned repositories - major thanks to Skydipper and Jiaxuan for a major platform to build upon
+
+https://github.com/JiaxuanYou/crop_yield_prediction
+https://github.com/holden590/cnn-models
 
 step 1 
   sudo find . -name *.ipynb
