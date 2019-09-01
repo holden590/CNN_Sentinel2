@@ -2,7 +2,11 @@
 
 Backup of GIM code for thesis
 
-Main reference gits can be found in stars and cloned repositories - major thanks to Skydipper and Jiaxuan for a major platform to build upon
+The Sentinel_2_CNN 1D and 2D files contain the code for running the Convolutional Neural Networks. Note that the ee_datasets.py needs to be saved down to the same Jupyter environment. 
+
+This code was run on a Google Compute Virtual Instance running on a Nvidia GPU.
+
+Main reference gits can be found in cloned repositories - major thanks to Skydipper and Jiaxuan for a major platform to build upon
 
 https://github.com/JiaxuanYou/crop_yield_prediction
 
