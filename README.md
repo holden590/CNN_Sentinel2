@@ -1,4 +1,5 @@
-# CNN_SkyDip_Backup
+# CNN_Backup
+
 Backup of GIM code for thesis
 
 Main reference gits can be found in stars and cloned repositories - major thanks to Skydipper and Jiaxuan for a major platform to build upon
