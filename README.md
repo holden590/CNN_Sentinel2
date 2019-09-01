@@ -14,8 +14,14 @@ https://github.com/JiaxuanYou/crop_yield_prediction
 https://github.com/holden590/cnn-models
 
 step 1 
+
   sudo find . -name *.ipynb
+  
 step 2 - set the working directory 
+
   cd ./home/holden590/Skydipper/Notebooks/
-step 3 - launch Jupyter notepad
+  
+step 3 - launch Jupyter notepad via SSH command
+
   jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser &
+  
